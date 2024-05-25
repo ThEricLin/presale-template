@@ -12,8 +12,8 @@ export const config = {
     change and promoting sustainability.
 `,
     soc: {
-        twitter: 'https://x.com',
-        telegram: 'https://telegram.org',
+        twitter: 'https://x.com/thericlin',
+        telegram: 'https://t.me/thericlin',
         discord: 'https://discord.com',
     }
 }
